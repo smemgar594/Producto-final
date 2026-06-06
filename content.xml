@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260606122856HZM2Z8</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260606122856E0NHUQ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA: &quot;De la idea al mercado. Plan de marketing y Elevator Pitch en el aula ATECA&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Silvia Membrive García</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El alumnado trabajará en equipo para ponerse en la piel de un emprendedor. Dará forma a una idea de negocio y la lanzará al mercado. Tras diseñar el plan de marketing de su empresa, deberán demostrar el potencial de su idea grabando un Elevator Pitch donde vendan su proyecto de forma rápida y convincente, utilizando herramientas de edición de vídeo para lograr un acabado profesional.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780740839793</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq2749n5-3u4a668e3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>I. Presentación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>I. Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>I. Presentación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2749n5-3u4a668e3</odePageId>
+      <odeBlockId>block-1780314557098-kfy5g8vav</odeBlockId>
+      <blockName>Descripción del proyecto</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2749n5-3u4a668e3</odePageId>
+          <odeBlockId>block-1780314557098-kfy5g8vav</odeBlockId>
+          <odeIdeviceId>idevice-1780314557095-modsguhaj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-size: 14pt;"><strong>SITUACIÓN DE APRENDIZAJE:</strong></span></p>
+<p style="text-align: center;"><strong>"De la idea al mercado: Plan de marketing y Elevator Pitch en el aula ATECA"</strong></p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><span style="text-decoration: underline;">Centro de interés o temática</span>: El marketing mix y la identidad corporativa como herramienta para el éxito empresarial.</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><span style="text-decoration: underline;">Nivel</span>: 2º Bachillerato de Ciencias Sociales</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><span style="text-decoration: underline;">Materia</span>: Empresa y Diseño de Modelos de Negocio.</span><br /></p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><span style="text-decoration: underline;">Temporalización</span>: 10 sesiones</span><br /></p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><span style="text-decoration: underline;">Idioma</span>: Español</span></p>
+<figure class="exe-figure position-center" style="width: 480px;"></figure>
+<p style="text-align: left;"><span style="font-size: 12pt;"><strong>Descripción del proyecto:</strong></span></p>
+<p>En esta SdA, el alumnado trabajará en equipo para crear un plan de marketing integral para su idea de negocio donde trabajará aspectos como:</p>
+<ul style="list-style-type: circle;">
+<li><span style="text-decoration: underline;">Estrategia de las 4ps del marketing mix</span>: desarrollo detallado de su producto, su precio, su promoción y distribución.</li>
+<li><span style="text-decoration: underline;">Identidad de la empresa</span>: cada grupo creará su logotipo y branding.</li>
+<li><span style="text-decoration: underline;">Elevator Pitch:</span> Grabarán un vídeo promocional y persuasivo en el aula ATECA del centro.</li>
+</ul>
+<p>El producto final será un <strong>dossier o documento</strong> que recoja todo lo anterior desarrollado con detalle.</p>
+<p style="text-align: center;"><span style="font-size: 10pt;"></span><br /></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;"><strong>Atención a la diversidad y DUA:</strong></span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">Se tiene en cuenta que el alumnado realiza esta simulación empresarial por primera vez, siendo el primer punto de contacto con la realidad empresarial. </span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">Por ello, se utilizarán los materiales en diferentes formatos de Econosublime, nuestro manual de referencia. Antes de diseñar el logotipo o grabar el vídeo, cada grupo debe completar el análisis de las 4P siguiendo las diapositivas como plantilla, asegurando que la competencia específica de la materia esté cubierta antes de pasar a la parte creativa. </span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">Se atiende a la diversidad con metodologías activas como el trabajo cooperativo y la integración de recursos audiovisuales y digitales, siguiendo las pautas del Diseño Universal para el Aprendizaje (DUA) en la adaptación a las necesidades de cada alumno/a.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">Se formarán grupos heterogéneos para favorecer el aprendizaje entre iguales y se asignarán roles de equipo: director de marketing como responsable del plan, un diseñador creativo para el logotipo y un responsable de comunicación para dirigir el diseño del Elevator Pitch.</span></p>
+<p style="text-align: justify;"><strong><span style="font-size: 12pt;">Recursos y materiales:</span></strong></p>
+<ul style="list-style-type: circle;">
+<li style="text-align: justify;"><span style="font-size: 12pt;">Conexión a Internet.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt;">Ordenadores.</span><span style="font-size: 12pt;"></span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt;">Navegadores web.</span><span style="font-size: 12pt;"></span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt;">Herramientas de redacción y tratamiento de la información (Google Docs, Canva, etc.)</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt;">Inteligencia Artificial.</span><span style="font-size: 12pt;"></span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt;">Herramientas de grabación.</span></li>
+</ul>
+<p><strong><span style="font-size: 12pt;">Espacios y agrupamientos:</span></strong></p>
+<ul style="list-style-type: circle;">
+<li><span style="font-size: 12pt;">Aula TIC y aula ATECA.</span></li>
+<li><span style="font-size: 12pt;">Agrupamientos individuales y en grupo.</span></li>
+</ul>
+<p style="text-align: left;"><br /></p>
+<p style="text-align: left;">Y dicho esto...</p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong>¡BIENVENIDOS/AS AL MUNDO DEL EMPRENDIMIENTO Y LA EMPRESA!</strong></span></p>
+<figure class="exe-figure position-center" style="width: 298px;"><span style="color: #000000; font-size: 8pt;"><img src="{{context_path}}/content/resources/Equipo.webp" width="298" height="195" alt="Trabajo en equipo" /></span><span style="font-size: 14pt;"></span></figure>
+<figure class="exe-figure position-center" style="width: 503px; text-align: center;">
+<figcaption class="figcaption"><span style="color: #000000; font-size: 8pt;"><a href="https://medium.com/@pablohaya/introducci%C3%B3n-al-trabajo-en-equipo-c9654a11b466" class="author" target="_blank" rel="noopener" style="color: #000000;">https://medium.com/@pablohaya/introducci%C3%B3n-al-trabajo-en-equipo-c9654a11b466</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener" style="color: #000000;">CC0</a><span class="sep">)</span></span></span></figcaption>
+</figure>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong></strong></span><br /></p>
+<figure class="exe-figure position-center" style="width: 503px;"></figure>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong></strong></span><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780314557095-modsguhaj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\"><strong>SITUACIÓN DE APRENDIZAJE:</strong></span></p>\n<p style=\"text-align: center;\"><strong>\"De la idea al mercado: Plan de marketing y Elevator Pitch en el aula ATECA\"</strong></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 10pt;\"><span style=\"text-decoration: underline;\">Centro de interés o temática</span>: El marketing mix y la identidad corporativa como herramienta para el éxito empresarial.</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 10pt;\"><span style=\"text-decoration: underline;\">Nivel</span>: 2º Bachillerato de Ciencias Sociales</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 10pt;\"><span style=\"text-decoration: underline;\">Materia</span>: Empresa y Diseño de Modelos de Negocio.</span><br /></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 10pt;\"><span style=\"text-decoration: underline;\">Temporalización</span>: 10 sesiones</span><br /></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 10pt;\"><span style=\"text-decoration: underline;\">Idioma</span>: Español</span></p>\n<figure class=\"exe-figure position-center\" style=\"width: 480px;\"></figure>\n<p style=\"text-align: left;\"><span style=\"font-size: 12pt;\"><strong>Descripción del proyecto:</strong></span></p>\n<p>En esta SdA, el alumnado trabajará en equipo para crear un plan de marketing integral para su idea de negocio donde trabajará aspectos como:</p>\n<ul style=\"list-style-type: circle;\">\n<li><span style=\"text-decoration: underline;\">Estrategia de las 4ps del marketing mix</span>: desarrollo detallado de su producto, su precio, su promoción y distribución.</li>\n<li><span style=\"text-decoration: underline;\">Identidad de la empresa</span>: cada grupo creará su logotipo y branding.</li>\n<li><span style=\"text-decoration: underline;\">Elevator Pitch:</span> Grabarán un vídeo promocional y persuasivo en el aula ATECA del centro.</li>\n</ul>\n<p>El producto final será un <strong>dossier o documento</strong> que recoja todo lo anterior desarrollado con detalle.</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 10pt;\"></span><br /></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\"><strong>Atención a la diversidad y DUA:</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Se tiene en cuenta que el alumnado realiza esta simulación empresarial por primera vez, siendo el primer punto de contacto con la realidad empresarial. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Por ello, se utilizarán los materiales en diferentes formatos de Econosublime, nuestro manual de referencia. Antes de diseñar el logotipo o grabar el vídeo, cada grupo debe completar el análisis de las 4P siguiendo las diapositivas como plantilla, asegurando que la competencia específica de la materia esté cubierta antes de pasar a la parte creativa. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Se atiende a la diversidad con metodologías activas como el trabajo cooperativo y la integración de recursos audiovisuales y digitales, siguiendo las pautas del Diseño Universal para el Aprendizaje (DUA) en la adaptación a las necesidades de cada alumno/a.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Se formarán grupos heterogéneos para favorecer el aprendizaje entre iguales y se asignarán roles de equipo: director de marketing como responsable del plan, un diseñador creativo para el logotipo y un responsable de comunicación para dirigir el diseño del Elevator Pitch.</span></p>\n<p style=\"text-align: justify;\"><strong><span style=\"font-size: 12pt;\">Recursos y materiales:</span></strong></p>\n<ul style=\"list-style-type: circle;\">\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Conexión a Internet.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Ordenadores.</span><span style=\"font-size: 12pt;\"></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Navegadores web.</span><span style=\"font-size: 12pt;\"></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Herramientas de redacción y tratamiento de la información (Google Docs, Canva, etc.)</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Inteligencia Artificial.</span><span style=\"font-size: 12pt;\"></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Herramientas de grabación.</span></li>\n</ul>\n<p><strong><span style=\"font-size: 12pt;\">Espacios y agrupamientos:</span></strong></p>\n<ul style=\"list-style-type: circle;\">\n<li><span style=\"font-size: 12pt;\">Aula TIC y aula ATECA.</span></li>\n<li><span style=\"font-size: 12pt;\">Agrupamientos individuales y en grupo.</span></li>\n</ul>\n<p style=\"text-align: left;\"><br /></p>\n<p style=\"text-align: left;\">Y dicho esto...</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\"><strong>¡BIENVENIDOS/AS AL MUNDO DEL EMPRENDIMIENTO Y LA EMPRESA!</strong></span></p>\n<figure class=\"exe-figure position-center\" style=\"width: 298px;\"><span style=\"color: #000000; font-size: 8pt;\"><img src=\"{{context_path}}/content/resources/Equipo.webp\" width=\"298\" height=\"195\" alt=\"Trabajo en equipo\" /></span><span style=\"font-size: 14pt;\"></span></figure>\n<figure class=\"exe-figure position-center\" style=\"width: 503px; text-align: center;\">\n<figcaption class=\"figcaption\"><span style=\"color: #000000; font-size: 8pt;\"><a href=\"https://medium.com/@pablohaya/introducci%C3%B3n-al-trabajo-en-equipo-c9654a11b466\" class=\"author\" target=\"_blank\" rel=\"noopener\" style=\"color: #000000;\">https://medium.com/@pablohaya/introducci%C3%B3n-al-trabajo-en-equipo-c9654a11b466</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\" style=\"color: #000000;\">CC0</a><span class=\"sep\">)</span></span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\"><strong></strong></span><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 503px;\"></figure>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\"><strong></strong></span><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2749n9-fg3k5wpj2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>II. Protección de datos y garantía de derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>II. Protección de datos y garantía de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y garantía de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>II. Protección de datos y garantía de derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2749n9-fg3k5wpj2</odePageId>
+      <odeBlockId>block-1780316145243-i6obdabeg</odeBlockId>
+      <blockName>Antes de comenzar, recuerda:</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2749n9-fg3k5wpj2</odePageId>
+          <odeBlockId>block-1780316145243-i6obdabeg</odeBlockId>
+          <odeIdeviceId>idevice-1780316145239-vdz8ew8sf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la realización de este proyecto, tenemos que considerar lo siguiente:</p>
+<p><embed width="600" height="300" style="display: block; margin-left: auto; margin-right: auto;" src="{{context_path}}/content/resources/2.3 Infografía licencias y seguridad.pdf" type="application/pdf"></embed></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780316145239-vdz8ew8sf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la realización de este proyecto, tenemos que considerar lo siguiente:</p>\n<p><embed width=\"600\" height=\"300\" style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"{{context_path}}/content/resources/2.3 Infografía licencias y seguridad.pdf\" type=\"application/pdf\"></embed></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2749na-ncaskw6vx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>III. Guía didáctica</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>III. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>III. Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2749na-ncaskw6vx</odePageId>
+      <odeBlockId>block-1780316452802-6ahcz6f3y</odeBlockId>
+      <blockName>Organización del proyecto</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2749na-ncaskw6vx</odePageId>
+          <odeBlockId>block-1780316452802-6ahcz6f3y</odeBlockId>
+          <odeIdeviceId>idevice-1780316452798-3b5djnllc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La planificación a seguir en el desarrollo del plan de marketing es la siguiente:</p>
+<figure class="exe-figure exe-media position-center license-custom" style="width: 600px; text-align: center;"><embed width="600" height="300" src="{{context_path}}/content/resources/7.1. Línea temporal del plan de marketing.pdf" type="application/pdf" data-mce-fragment="1"></embed>
+<figcaption class="figcaption"><span style="font-size: 8pt;"><span class="author">Silvia Membrive García</span>. <span class="title"><em>Línea temporal del plan de marketing</em></span></span></figcaption>
+</figure>
+<p>A continuación, se muestra la relación de esas tareas con los criterios de evaluación a trabajar con esta SdA:</p>
+<figure class="exe-figure exe-media position-center" style="width: 600px; text-align: center;"><embed width="600" height="300" src="{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación.pdf" type="application/pdf" data-mce-fragment="1"></embed>
+<figcaption class="figcaption"><span style="font-size: 8pt;"><span class="author">Silvia Membrive García</span>. <span class="title"><em>Relación de tareas con criterios de evaluación</em></span></span></figcaption>
+</figure>
+<p>Recuerda que <span style="text-decoration: underline;">es fundamental realizar todas la tareas</span> para poder superar la SdA y, con ello, alcanzar los criterios de evaluación asociados a la misma.</p>
+<p>Por otro lado, aparecen aquí diferentes <span style="font-size: 12pt;"><strong>recursos web</strong></span> que te pueden ayudar a realizar el proyecto (vídeos, documentos, esquemas, etc.):</p>
+<p><a href="https://padlet.com/smemgar594/guia-para-el-plan-de-empresa-gp9x7l4uoexgdk12" title="Padlet con recursos de apoyo" target="_blank" rel="noopener">Padlet con recursos que pueden ayudarte a crear tu plan de marketing y tu Elevator Pitch</a></p>
+<p>También te dejo el Symbaloo del Departamento de Economía, con una mayor cantidad de apps de todo tipo que pueden ser utilizados para la materia:</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAA4P27asAA41_W3ZS0Q==" title="Symbaloo del departamento de Economía" target="_blank" rel="noopener">Symbaloo del departamento de Economía</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780316452798-3b5djnllc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La planificación a seguir en el desarrollo del plan de marketing es la siguiente:</p>\n<figure class=\"exe-figure exe-media position-center license-custom\" style=\"width: 600px; text-align: center;\"><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/7.1. Línea temporal del plan de marketing.pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span style=\"font-size: 8pt;\"><span class=\"author\">Silvia Membrive García</span>. <span class=\"title\"><em>Línea temporal del plan de marketing</em></span></span></figcaption>\n</figure>\n<p>A continuación, se muestra la relación de esas tareas con los criterios de evaluación a trabajar con esta SdA:</p>\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 600px; text-align: center;\"><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación.pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span style=\"font-size: 8pt;\"><span class=\"author\">Silvia Membrive García</span>. <span class=\"title\"><em>Relación de tareas con criterios de evaluación</em></span></span></figcaption>\n</figure>\n<p>Recuerda que <span style=\"text-decoration: underline;\">es fundamental realizar todas la tareas</span> para poder superar la SdA y, con ello, alcanzar los criterios de evaluación asociados a la misma.</p>\n<p>Por otro lado, aparecen aquí diferentes <span style=\"font-size: 12pt;\"><strong>recursos web</strong></span> que te pueden ayudar a realizar el proyecto (vídeos, documentos, esquemas, etc.):</p>\n<p><a href=\"https://padlet.com/smemgar594/guia-para-el-plan-de-empresa-gp9x7l4uoexgdk12\" title=\"Padlet con recursos de apoyo\" target=\"_blank\" rel=\"noopener\">Padlet con recursos que pueden ayudarte a crear tu plan de marketing y tu Elevator Pitch</a></p>\n<p>También te dejo el Symbaloo del Departamento de Economía, con una mayor cantidad de apps de todo tipo que pueden ser utilizados para la materia:</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAA4P27asAA41_W3ZS0Q==\" title=\"Symbaloo del departamento de Economía\" target=\"_blank\" rel=\"noopener\">Symbaloo del departamento de Economía</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2749nc-nh1p0atq8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>IV. ¿Qué herramientas hay que usar?</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>IV. ¿Qué herramientas hay que usar?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>IV. ¿Qué herramientas hay que usar?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>IV. ¿Qué herramientas hay que usar?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2749nc-nh1p0atq8</odePageId>
+      <odeBlockId>block-1780328801234-8ihk3182t</odeBlockId>
+      <blockName>Recursos TIC para la elaboración del producto final</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2749nc-nh1p0atq8</odePageId>
+          <odeBlockId>block-1780328801234-8ihk3182t</odeBlockId>
+          <odeIdeviceId>idevice-1780328801231-t718u3mrt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Aunque sé que eres todo un experto o una experta en el uso de herramientas TIC, te dejo una recomendación para la elaboración de tu plan de marketing y tu Elevator Pitch:</p>
+<table border="1" height="1673" style="width: 100.3%; height: 672.157px; background-color: #ecf0f1; border-color: #34495e; border-style: solid;">
+<tbody>
+<tr style="height: 375.969px;">
+<td style="width: 38.7234%; height: 375.969px; text-align: center;">PARA LA ELABORACIÓN DEL <span style="color: #3598db;"><strong>DOSSIER</strong></span>:</td>
+<td style="width: 61.402%; height: 375.969px;">
+<p style="text-align: justify;">Con Canva tu grupo puede centrarse en el diseño de vuestro plan de marketing mediante una serie de diseños de identidad corporativa y una maquetación más profesional del documento, similar a lo que sería un plan de empresa real. Además, como vas a trabajar en equipo, es una herramienta que permite el trabajo colaborativo en tiempo real, de forma que varios miembros del equipo podéis editar el plan de marketing al mismo tiempo. Por otro lado, Canva es conocido por toda la clase pues lo habéis usado para la realización de otros trabajos, lo que lleva a que ya estés familiarizado con todas las funcionalidades que ofrece y así podrás sacar el mayor partido a las mismas.</p>
+</td>
+</tr>
+<tr style="height: 296.188px;">
+<td style="width: 38.7234%; height: 296.188px; text-align: center;">PARA GRABAR EL <strong>ELEVATOR PITCH</strong>:</td>
+<td style="width: 61.402%; height: 296.188px;">
+<p style="text-align: justify;">Además de emplear los recursos TIC disponibles en el aula ATECA de nuestro centro, tu grupo puede usar CapCut para editar el vídeo según los requisitos que ha de cumplir. Con esta herramienta, podrás modificar aspectos del vídeo como la iluminación, el sonido o la duración, entre otros. Además, permite agrupar varias tomas del vídeo en una sola. </p>
+<p><br /></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p style="text-align: justify;">Y recuerda... <span style="background-color: #fbeeb8;">¡No olvides tener en cuenta los <em>consejos de seguridad</em> del apartado II cuando uses estos recursos!</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780328801231-t718u3mrt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Aunque sé que eres todo un experto o una experta en el uso de herramientas TIC, te dejo una recomendación para la elaboración de tu plan de marketing y tu Elevator Pitch:</p>\n<table border=\"1\" height=\"1673\" style=\"width: 100.3%; height: 672.157px; background-color: #ecf0f1; border-color: #34495e; border-style: solid;\">\n<tbody>\n<tr style=\"height: 375.969px;\">\n<td style=\"width: 38.7234%; height: 375.969px; text-align: center;\">PARA LA ELABORACIÓN DEL <span style=\"color: #3598db;\"><strong>DOSSIER</strong></span>:</td>\n<td style=\"width: 61.402%; height: 375.969px;\">\n<p style=\"text-align: justify;\">Con Canva tu grupo puede centrarse en el diseño de vuestro plan de marketing mediante una serie de diseños de identidad corporativa y una maquetación más profesional del documento, similar a lo que sería un plan de empresa real. Además, como vas a trabajar en equipo, es una herramienta que permite el trabajo colaborativo en tiempo real, de forma que varios miembros del equipo podéis editar el plan de marketing al mismo tiempo. Por otro lado, Canva es conocido por toda la clase pues lo habéis usado para la realización de otros trabajos, lo que lleva a que ya estés familiarizado con todas las funcionalidades que ofrece y así podrás sacar el mayor partido a las mismas.</p>\n</td>\n</tr>\n<tr style=\"height: 296.188px;\">\n<td style=\"width: 38.7234%; height: 296.188px; text-align: center;\">PARA GRABAR EL <strong>ELEVATOR PITCH</strong>:</td>\n<td style=\"width: 61.402%; height: 296.188px;\">\n<p style=\"text-align: justify;\">Además de emplear los recursos TIC disponibles en el aula ATECA de nuestro centro, tu grupo puede usar CapCut para editar el vídeo según los requisitos que ha de cumplir. Con esta herramienta, podrás modificar aspectos del vídeo como la iluminación, el sonido o la duración, entre otros. Además, permite agrupar varias tomas del vídeo en una sola. </p>\n<p><br /></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p style=\"text-align: justify;\">Y recuerda... <span style=\"background-color: #fbeeb8;\">¡No olvides tener en cuenta los <em>consejos de seguridad</em> del apartado II cuando uses estos recursos!</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2749nd-ocmwbxxzb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>V. Evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>V. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>V. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2749nd-ocmwbxxzb</odePageId>
+      <odeBlockId>block-1780331579335-yhow9bl65</odeBlockId>
+      <blockName>¿De dónde sale la nota de mi proyecto?</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2749nd-ocmwbxxzb</odePageId>
+          <odeBlockId>block-1780331579335-yhow9bl65</odeBlockId>
+          <odeIdeviceId>idevice-1780331579333-1yad5ckt0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1366px; text-align: center;"><strong style="font-size: 14pt;">¡La nota, profe, la nota!</strong></figure>
+<p style="text-align: justify;">Sé que una de las cosas que más te preocupan es poder aprobar este proyecto pero, sobre todo... ¡con muy buena nota! Por eso, te dejo aquí cuáles van a ser los instrumentos de evaluación que vamos a utilizar para evaluar todo tu trabajo realizado en las sesiones de clase:</p>
+<p><embed width="600" height="300" style="display: block; margin-left: auto; margin-right: auto;" src="{{context_path}}/content/resources/8.1 Instrumentos de evaluación.pdf" type="application/pdf"></embed></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780331579333-1yad5ckt0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1366px; text-align: center;\"><strong style=\"font-size: 14pt;\">¡La nota, profe, la nota!</strong></figure>\n<p style=\"text-align: justify;\">Sé que una de las cosas que más te preocupan es poder aprobar este proyecto pero, sobre todo... ¡con muy buena nota! Por eso, te dejo aquí cuáles van a ser los instrumentos de evaluación que vamos a utilizar para evaluar todo tu trabajo realizado en las sesiones de clase:</p>\n<p><embed width=\"600\" height=\"300\" style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"{{context_path}}/content/resources/8.1 Instrumentos de evaluación.pdf\" type=\"application/pdf\"></embed></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2749ne-e9c04nf27</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>VI. Créditos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VI. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VI. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2749ne-e9c04nf27</odePageId>
+      <odeBlockId>block-1780332142963-xux809ws3</odeBlockId>
+      <blockName>Autoría</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2749ne-e9c04nf27</odePageId>
+          <odeBlockId>block-1780332142963-xux809ws3</odeBlockId>
+          <odeIdeviceId>idevice-1780332142960-ekzf0t9xd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: right;"><span style="color: #000000;"><em>Autora: Silvia Membrive García</em></span></p>
+<p style="text-align: center;"><strong>DEPARTAMENTO DE ECONOMÍA</strong></p>
+<p style="text-align: center;"><strong>IES Martín García Ramos, Albox (Almería)</strong></p>
+<p style="text-align: center;"><em>"De la idea al mercado. Plan de marketing y Elevator Pitch en el aula ATECA"</em></p>
+<p style="text-align: justify;">En esta SdA, el alumnado trabajará en equipo para ponerse en la piel de un emprendedor. Dará forma a una idea de negocio y la lanzará al mercado. Tras diseñar el plan de marketing de su empresa, deberán demostrar el potencial de su idea grabando un Elevator Pitch donde vendan su proyecto de forma rápida y convincente, utilizando herramientas de edición de vídeo para lograr un acabado profesional.<br />De esta forma, se fomenta el trabajo cooperativo y el uso de las herramientas digitales para el diseño y presentación del proyecto.</p>
+<div class="pre-code">
+<div>
+<pre><code>De la idea al mercado. Plan de marketing y Elevator Pitch en el aula ATECA © 2026 by Silvia Membrive García is licensed under CC BY-NC 4.0 </code></pre>
+</div>
+</div>
+<p><br /></p>
+<p><br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780332142960-ekzf0t9xd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: right;\"><span style=\"color: #000000;\"><em>Autora: Silvia Membrive García</em></span></p>\n<p style=\"text-align: center;\"><strong>DEPARTAMENTO DE ECONOMÍA</strong></p>\n<p style=\"text-align: center;\"><strong>IES Martín García Ramos, Albox (Almería)</strong></p>\n<p style=\"text-align: center;\"><em>\"De la idea al mercado. Plan de marketing y Elevator Pitch en el aula ATECA\"</em></p>\n<p style=\"text-align: justify;\">En esta SdA, el alumnado trabajará en equipo para ponerse en la piel de un emprendedor. Dará forma a una idea de negocio y la lanzará al mercado. Tras diseñar el plan de marketing de su empresa, deberán demostrar el potencial de su idea grabando un Elevator Pitch donde vendan su proyecto de forma rápida y convincente, utilizando herramientas de edición de vídeo para lograr un acabado profesional.<br />De esta forma, se fomenta el trabajo cooperativo y el uso de las herramientas digitales para el diseño y presentación del proyecto.</p>\n<div class=\"pre-code\">\n<div>\n<pre><code>De la idea al mercado. Plan de marketing y Elevator Pitch en el aula ATECA © 2026 by Silvia Membrive García is licensed under CC BY-NC 4.0 </code></pre>\n</div>\n</div>\n<p><br /></p>\n<p><br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq2749ne-e9c04nf27</odePageId>
+      <odeBlockId>block-1780334652904-pu80ts8p2</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2749ne-e9c04nf27</odePageId>
+          <odeBlockId>block-1780334652904-pu80ts8p2</odeBlockId>
+          <odeIdeviceId>idevice-1780334652902-oe1gflefn</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info" style="width: 100%; height: 188px;"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr style="height: 65px;">
+<th style="width: 17.6535%; height: 65px;">Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA: "De la idea al mercado. Plan de marketing y Elevator Pitch en el aula ATECA"</span></td>
+</tr>
+<tr style="height: 41px;">
+<th style="width: 17.6535%; height: 41px;">Descripción</th>
+<td class="mceNonEditable exe-prop-locked" style="text-align: justify;"><span class="exe-prop-description">El alumnado trabajará en equipo para ponerse en la piel de un emprendedor. Dará forma a una idea de negocio y la lanzará al mercado. Tras diseñar el plan de marketing de su empresa, deberán demostrar el potencial de su idea grabando un Elevator Pitch donde vendan su proyecto de forma rápida y convincente, utilizando herramientas de edición de vídeo para lograr un acabado profesional.</span></td>
+</tr>
+<tr style="height: 41px;">
+<th style="width: 17.6535%; height: 41px;">Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Silvia Membrive García</span></td>
+</tr>
+<tr style="height: 41px;">
+<th style="width: 17.6535%; height: 41px;">Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
